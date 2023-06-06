@@ -1,0 +1,16 @@
+{
+  "name": "Unity-Useful-Packages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GyutaeLee/Unity-Useful-Packages.git",
+  "author": "Gyutae Lee <gyutae07@gmail.com>",
+  "license": "",
+  "devDependencies": {
+    "@commitlint/cli": "^17.6.5",
+    "@commitlint/config-conventional": "^17.6.5",
+    "husky": "^8.0.0"
+  },
+  "scripts": {
+    "prepare": "husky install"
+  }
+}
