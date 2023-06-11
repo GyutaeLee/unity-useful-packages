@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "com.qbot.sound": "file:../Submodules/Unity-Useful-Packages/sound-package",
-    "com.qbot.utility": "file:../Submodules/Unity-Useful-Packages/utility-package",
+    "com.qbot.sound": "file:../Submodules/useful-packages/sound-package",
+    "com.qbot.utility": "file:../Submodules/useful-packages/utility-package",
     "com.unity.collab-proxy": "2.0.4",
     "com.unity.feature.development": "1.0.1",
     "com.unity.textmeshpro": "3.0.6",
