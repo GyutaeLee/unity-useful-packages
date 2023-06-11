@@ -1,5 +1,17 @@
 {
   "dependencies": {
+    "com.qbot.sound": {
+      "version": "file:../Submodules/Unity-Useful-Packages/sound-package",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
+    "com.qbot.utility": {
+      "version": "file:../Submodules/Unity-Useful-Packages/utility-package",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.collab-proxy": {
       "version": "2.0.4",
       "depth": 0,
