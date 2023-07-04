@@ -76,3 +76,8 @@ node_modules/
 
 # vs code
 .vsconfig
+
+# jet brain
+.idea/
+
+.DS_Store
