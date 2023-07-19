@@ -1,19 +1,19 @@
 {
   "dependencies": {
     "com.qbot.sound": {
-      "version": "file:../Submodules/useful-packages/Unity-Sound-Package",
+      "version": "file:../Unity-Sound-Package",
       "depth": 0,
       "source": "local",
       "dependencies": {}
     },
     "com.qbot.ui": {
-      "version": "file:../Submodules/useful-packages/Unity-UI-Package",
+      "version": "file:../Unity-UI-Package",
       "depth": 0,
       "source": "local",
       "dependencies": {}
     },
     "com.qbot.utility": {
-      "version": "file:../Submodules/useful-packages/Unity-Utility-Package",
+      "version": "file:../Unity-Utility-Package",
       "depth": 0,
       "source": "local",
       "dependencies": {}

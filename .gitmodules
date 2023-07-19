@@ -1,0 +1,9 @@
+[submodule "Unity-Utility-Package"]
+	path = Unity-Utility-Package
+	url = https://github.com/GyutaeLee/Unity-Utility-Package.git
+[submodule "Unity-UI-Package"]
+	path = Unity-UI-Package
+	url = https://github.com/GyutaeLee/Unity-UI-Package.git
+[submodule "Unity-Sound-Package"]
+	path = Unity-Sound-Package
+	url = https://github.com/GyutaeLee/Unity-Sound-Package.git
